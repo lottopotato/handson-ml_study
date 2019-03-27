@@ -4,3 +4,6 @@ mnist
 # temp
 __pycache__
 .ipynb_checkpoints
+# tensorflow_logs
+*.ckpt
+*.ckpt.meta
